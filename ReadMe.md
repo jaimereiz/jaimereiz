@@ -1,5 +1,5 @@
 # 💫 About Me:
-Atualmente cursando o último período do curso de Estatística. Tenho interesse na área <br>de Data Science e Business Intelligence (BI). Possuo experiência no mercado de trabalho<br>, atuando principalmente como analista de banco de dados e na criação de <br>dashboards em três instituições diferentes. Neste momento, estou em busca de novos <br>desafios, algo que me permita aplicar meu conhecimento e adquirir novas habilidades <br>por meio de metas e adversidades do mundo real.<br>
+Atualmente cursando o último período do curso de Estatística. Tenho interesse na área de Data Science e Business Intelligence (BI). Possuo experiência no mercado de trabalho, atuando principalmente como analista de banco de dados e na criação de  dashboards em três instituições diferentes. Neste momento, estou em busca de novos desafios, algo que me permita aplicar meu conhecimento e adquirir novas habilidades <br>por meio de metas e adversidades do mundo real.<br>
 
 
 ## 🌐 Socials:
